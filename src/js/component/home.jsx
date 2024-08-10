@@ -5,7 +5,7 @@ import ReactDOM from "react-dom";
 //create your first component
 const Home = () => {
 	return (
-		<div>
+		<div className="background">
 			 <Trafficlight />
 		</div>
 	);
